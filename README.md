@@ -44,12 +44,12 @@ Aprender Kotlin desde cero, entendiendo su sintaxis, estructuras de control, fun
 ## 💻 Cómo ejecutar
 Podés correr los archivos desde **IntelliJ IDEA**, **Android Studio** o usando el compilador de Kotlin por consola:
 
-```bash
+``bash
 kotlinc archivo.kt -include-runtime -d programa.jar
 java -jar programa.jar
 
 
-## 🧩 Recursos útiles
+🧩 Recursos útiles
 - [📚 Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
 - [💻 Kotlin Playground (ejecutar online)](https://play.kotlinlang.org/)
 - [🧾 Guía de estilo de Kotlin](https://kotlinlang.org/docs/coding-conventions.html)
