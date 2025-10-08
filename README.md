@@ -50,6 +50,7 @@ java -jar programa.jar
 
 
 🧩 Recursos útiles
+
 - [📚 Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
 - [💻 Kotlin Playground (ejecutar online)](https://play.kotlinlang.org/)
 - [🧾 Guía de estilo de Kotlin](https://kotlinlang.org/docs/coding-conventions.html)
