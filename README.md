@@ -10,7 +10,7 @@ Aprender Kotlin desde cero, entendiendo su sintaxis, estructuras de control, fun
 
 ---
 
-## 🧠 Contenido
+## 🧠 Contenidos
 
 ### 🔹 Conceptos básicos
 - Variables (`val` y `var`)
