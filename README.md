@@ -60,5 +60,5 @@ java -jar programa.jar
 ✍️ Autor
 
 Ezequiel Cano
-📅 Inicio del proyecto: 2025
+📅 Inicio del proyecto: Ocuubre 2025
 💬 Propósito: Documentar mi progreso aprendiendo Kotlin paso a paso.
