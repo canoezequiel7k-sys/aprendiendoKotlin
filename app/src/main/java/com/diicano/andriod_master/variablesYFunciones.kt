@@ -20,7 +20,7 @@ fun showMyName (){
     println("Me llamo Ezequiel")
 }
 
-fun showMyAge (currentAge:Int){
+fun showMyAge (currentAge:Int = 40){ //Nos aseguramos que llegue un valor
     println("tengo $currentAge de edad")
 }
 //Le pasamos un parametro a la funcion, le estamos diciendo que tipo de dato le va a llegar
@@ -32,6 +32,8 @@ fun subtract(firstNumber:Int, secondNumber:Int):Int {
     return firstNumber - secondNumber
     //println("Adios :(") //igualmente no se veria, porque una vez haya un return, lo que hay abajo lo ignora y no lo compila.
 }
+
+fun subtractCool(firstNumber:Int, secondNumber:Int) = firstNumber - secondNumber //Funciona en funciones chicas.
 
 
 fun variablesNumericas(){
