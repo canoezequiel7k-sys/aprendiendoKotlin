@@ -1,6 +1,4 @@
-package com.diicano.andriod_master
-
-import android.Manifest
+package com.diicano.andriod_master.sintaxis
 
 fun main(){
     ifMultipleOr()

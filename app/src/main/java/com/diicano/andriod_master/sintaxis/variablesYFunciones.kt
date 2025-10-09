@@ -1,4 +1,4 @@
-package com.diicano.andriod_master
+package com.diicano.andriod_master.sintaxis
 
 val name = "ezequiel" //val es una variable inmutable, no se cambia.
 var myName = "Ezequiel" //var es una Variable mutable, se puede cambiar.

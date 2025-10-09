@@ -1,4 +1,4 @@
-package com.diicano.andriod_master
+package com.diicano.andriod_master.sintaxis
 
 fun main(){
 
